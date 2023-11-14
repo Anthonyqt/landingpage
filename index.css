@@ -49,10 +49,16 @@ ul li a {
     font-size: 9px;
 }
     .int{
-        position: fixed;
-        margin-top: 50px;
+       margin-left: 100px;
+       display: flex;
+       width: 30em;
+       height: 30em;
+       margin: 0 20px 0 50px;
+       
+      
        
     }
+    
     body{
         background-image: url("1.png");
         background-size:auto;
